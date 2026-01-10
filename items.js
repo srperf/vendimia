@@ -67,7 +67,7 @@ const items = [
     condition: "Usada funciona bien",
     claim: "Don Leandro",
     bid: "$2000",
-    status: "sold"
+    status: "vendido"
   },
   {
     name: "Espejo",
@@ -226,6 +226,9 @@ items.forEach(item => {
   card.innerHTML = `
     <img class="main-image" src="${item.images[0]}" alt="${item.name}">
     <div class="card-title">${item.name}</div>
+    <div class="status ${item.status}">
+        ${item.status.toUpperCase()}
+      </div>
 
     <div class="overlay">
       <div class="image-gallery">

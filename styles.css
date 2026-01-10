@@ -121,9 +121,11 @@ footer {
   color: #a15c00;
 }
 
-.status.sold {
+.status.vendido {
   background: #fdecea;
   color: #a50e0e;
+  text-align: center;
+  font-weight: bolder;
 }
 
 .lightbox {
