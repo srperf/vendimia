@@ -2,9 +2,9 @@ const items = [
   {
     name: "Wooden Desk",
     images: [
-      "https://via.placeholder.com/400x300?text=Desk+1",
-      "https://via.placeholder.com/400x300?text=Desk+2",
-      "https://via.placeholder.com/400x300?text=Desk+3"
+      "https://www.office-furniture-direct.co.uk/Cache/Images/MI003193-1-2048-2048.jpg",
+      "https://www.ikea.com/de/en/images/products/mittzon-desk-walnut-veneer-black__1209402_pe909191_s5.jpg",
+      "https://www.office-furniture-direct.co.uk/Cache/Images/MI003273-1-2048-2048-1500x1500-opaque.jpg"
     ],
     description: "Solid wooden desk, very sturdy.",
     condition: "Good",
