@@ -1,29 +1,29 @@
 const items = [
   {
-    name: "Wooden Desk",
+    name: "Escritorio de ñoñear",
     images: [
       "https://www.office-furniture-direct.co.uk/Cache/Images/MI003193-1-2048-2048.jpg",
       "https://www.ikea.com/de/en/images/products/mittzon-desk-walnut-veneer-black__1209402_pe909191_s5.jpg",
       "https://www.office-furniture-direct.co.uk/Cache/Images/MI003273-1-2048-2048-1500x1500-opaque.jpg"
     ],
-    description: "Solid wooden desk, very sturdy.",
-    condition: "Good",
-    claim: "Alice",
-    bid: "€50",
-    status: "claimed"
+    description: "Escritorio donde se hace trabajo, 100x30x40",
+    condition: "Bubi se sentó en el",
+    claim: "Don Leandro",
+    bid: "$500",
+    status: "Apartado"
   },
   {
-    name: "Office Chair",
+    name: "La silla",
     images: [
-      "https://via.placeholder.com/400x300?text=Chair+1",
-      "https://via.placeholder.com/400x300?text=Chair+2"
+      "https://www.art-gallery-mallorca.com/wp-content/uploads/2022/06/hrg074002-15-23-hrgiger-capo-harkonnen-chair-197x61x60cm-resin-steel-rubber-web.jpg",
+      "https://i.pinimg.com/736x/08/b5/0f/08b50f99d8356a0ebc712db512c42cc6.jpg"
     ],
-    description: "Ergonomic chair with adjustable height.",
-    condition: "Very good",
-    claim: "—",
-    bid: "€30",
-    status: "available"
-  },
+    description: "Silla de patrona de Liebher super cool",
+    condition: "Imponente",
+    claim: "Aun nadie",
+    bid: "$300",
+    status: "disponible"
+  }/*,
   {
     name: "Bookshelf",
     images: [
@@ -58,7 +58,7 @@ const items = [
     claim: "Bob",
     bid: "€25",
     status: "sold"
-  }
+  }*/
 ];
 
 const catalog = document.getElementById("catalog");
@@ -80,10 +80,10 @@ items.forEach(item => {
         ${gallery}
       </div>
 
-      <p><strong>Description:</strong> ${item.description}</p>
-      <p><strong>Condition:</strong> ${item.condition}</p>
-      <p><strong>Claimed by:</strong> ${item.claim}</p>
-      <p><strong>Bid:</strong> ${item.bid}</p>
+      <p><strong>Descripcion:</strong> ${item.description}</p>
+      <p><strong>Condicion:</strong> ${item.condition}</p>
+      <p><strong>Quien ofertó ultimo:</strong> ${item.claim}</p>
+      <p><strong>Monto:</strong> ${item.bid}</p>
 
       <div class="status ${item.status}">
         Status: ${item.status.toUpperCase()}

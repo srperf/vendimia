@@ -42,11 +42,12 @@ footer {
   overflow: hidden;
   cursor: pointer;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  min-height: 450px;
 }
 
 .card img.main-image {
   width: 100%;
-  height: 180px;
+  height: 260px;
   object-fit: cover;
 }
 
