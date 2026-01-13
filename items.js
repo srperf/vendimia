@@ -19,7 +19,7 @@ const items = [
     description: "Apple watch SE Gen2",
     condition: "Nuevo en caja",
     claim: "Aun nadie",
-    bid: "$1000",
+    bid: "$2000",
     status: "Disponible"
   },
   {
@@ -42,7 +42,7 @@ const items = [
     description: "2 piezas, cada una 50 x 40 x 50",
     condition: "Usado, como nuevo",
     claim: "Aun Nadie",
-    bid: "$300",
+    bid: "$300 cada una",
     status: "Disponible"
   },
   {
@@ -53,7 +53,7 @@ const items = [
     description: "Electrico para calentar habitaciones.",
     condition: "Funciona perfecto.",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$500",
     status: "Disponible"
   },
   {
@@ -77,7 +77,7 @@ const items = [
     description: "Espejo de cuerpo completo 38 x 0,5 x 142",
     condition: "Como nuevo",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$100",
     status: "Disponible"
   },
   {
@@ -133,7 +133,7 @@ const items = [
     description: "Mesita de aglomerado plegable multiusos. 50 x 37 x 66",
     condition: "Usada como nueva.",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$150",
     status: "Disponible"
   },
   {
@@ -146,7 +146,7 @@ const items = [
     description: "Mesa de madera parota, no es aglomerado. 80 x 60 x 45",
     condition: "Usada, como nueva. Es muy resistente.",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$2000",
     status: "Disponible"
   },
   {
@@ -158,7 +158,7 @@ const items = [
     description: "Mueble para television con cajon y puertas. No incluye contenido. 160 x 40 x 62",
     condition: "Usado, como nuevo",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$850",
     status: "Disponible"
   },
   {
@@ -170,7 +170,7 @@ const items = [
     description: "Silla para escritorio blanca con pistón.",
     condition: "Usada",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$400",
     status: "Disponible"
   },
   {
@@ -182,7 +182,7 @@ const items = [
     description: "Sofa cama violeta. Se jala una segunda cama de abajo. 195 x 100 x 65",
     condition: "Usado y algo despintado",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$1000",
     status: "Disponible"
   },
   {
