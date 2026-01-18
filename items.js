@@ -162,7 +162,7 @@ const items = [
     status: "Disponible"
   },
   {
-    name: "Silla para escritorio",
+    name: "Silla escritorio blanca",
     images: [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768039487/SillaEscrBlanca1_gfqxjw.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768039487/SillaEscrBlanca2_mximoi.jpg"
@@ -194,6 +194,341 @@ const items = [
     condition: "Usada",
     claim: "Aun Nadie",
     bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Zapatero Negro",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763608/ZapateroNegro_jaytt9.jpg"
+    ],
+    description: "Zapatero plegable [Medidas]",
+    condition: "Usado como nuevo",
+    claim: "Aun Nadie",
+    bid: "$100",
+    status: "Disponible"
+  },
+  {
+    name: "Zapatero Gris",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763601/ZapateroGris_obzjys.jpg"
+    ],
+    description: "Zapatero de tela gris [Medidas] 2 disponibles",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$100",
+    status: "Disponible"
+  },
+  {
+    name: "Pantalla 65 pulgadas",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674456/Tele_Grande_m3dz0x.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674460/Tele_Grande_3_rtd6by.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674461/Tele_Grande_2_ck7lml.jpg"
+    ],
+    description: "Samsung 65 pulgadas UN65AU8200fxzxa",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$7000",
+    status: "Disponible"
+  },
+  {
+    name: "Kit de sonido",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/Sonido1_fu6tok.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763618/Sonido2_xzyp1u.jpg"
+    ],
+    description: "Amplificador Pyle con bluetooth, radio, mp3 y con bocinas hasta 100 wats",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$300",
+    status: "Disponible"
+  },
+  {
+    name: "Sillon reclinable",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674466/Sillon_reclinable_xgilma.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674467/Sillon_reclinable2_ehoytk.jpg"
+    ],
+    description: "Sillon reclinable gris [Medidas]",
+    condition: "Usado y algo deshilado",
+    claim: "Aun Nadie",
+    bid: "$1000",
+    status: "Disponible"
+  },
+  {
+    name: "Sillas de comedor",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Sillas_2_lher7n.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Sillas_jwip5m.jpg"
+    ],
+    description: "4 Sillas para comedor de madera con patas de metal",
+    condition: "Usadas",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Silla de escritorio negra",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763619/SillaEscritorioNegra1_iw5upi.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/SillaEscritorioNegra2_ucwavq.jpg"
+    ],
+    description: "Silla de escritorio reclinable, brazos moviles, descanso de nuca",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Silla plegable azul",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674464/Silla_azul_e6twt3.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674464/Silla_azul_2_bsafcg.jpg"
+    ],
+    description: "Silla plegable de metal acolchonasa azul",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$100",
+    status: "Disponible"
+  },
+  {
+    name: "Rizador de cabello",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/RisadorPelo_g152gu.jpg"
+    ],
+    description: "Risador electrico 5 en 1 multifunción",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$250",
+    status: "Disponible"
+  },
+  {
+    name: "Refrigerador Samsung",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763598/Refri1_tizuma.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763598/Refri2_xwm6yz.jpg"
+    ],
+    description: "Refrigerador Samsung plateado [medidas]",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$1000",
+    status: "Disponible"
+  },
+  {
+    name: "MiniRack",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763597/Rackcito1_x46eoh.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/Rackcito2_x8lwon.jpg"
+    ],
+    description: "Mini rack de plastico desarmable con ruedas 52x17x71",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$100",
+    status: "Disponible"
+  },
+  {
+    name: "Perchero de madera",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674461/Perchero_xb9afa.jpg"
+    ],
+    description: "Perchero de madera con 4 perchas dobles. 2 disponibles",
+    condition: "Usados",
+    claim: "Aun Nadie",
+    bid: "$100",
+    status: "Disponible"
+  },
+  {
+    name: "Monitor de computadora",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/Monitor1_hpkrux.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763597/Monitor2_ndxi6h.jpg"
+    ],
+    description: "Monitor para computadora hdmi de 24 pulgadas marca Sansui",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$750",
+    status: "Disponible"
+  },
+  {
+    name: "Microondas",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674461/Microondas_ikadh2.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674465/Microondas3_t30ckc.jpg"
+    ],
+    description: "Horno de microondas Daewoo KOR669M de 20 litros",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Mesita plegable",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763596/MesitaMorada_sq7yrl.jpg"
+    ],
+    description: "Mesita plegable pequeña [medidas]",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$250",
+    status: "Disponible"
+  },
+  {
+    name: "Librero",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763596/Librero1_zjlxq9.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/Librero2_wnchec.jpg"
+    ],
+    description: "Librero blanco con iluminación led y control remoto 30x90x178",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$250",
+    status: "Disponible"
+  },
+  {
+    name: "Lavadora",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674466/Lavadora2_yv4eel.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674462/Lavadora_d9h4et.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674456/Lavadora3_tsbpph.jpg"
+    ],
+    description: "Lavadora Samsung 12 kilos Diamond Drum",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$300",
+    status: "Disponible"
+  },
+  {
+    name: "Cajoneras",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Gabinete_2_jrtptz.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Gabinete_wonzjv.jpg"
+    ],
+    description: "Cajoneras blancas ligeras de metal/alambre [medidas]. 6 disponibles",
+    condition: "Usadas",
+    claim: "Aun Nadie",
+    bid: "$200",
+    status: "Disponible"
+  },
+  {
+    name: "Escritorio gamer",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763593/Escritorio1_pg221i.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/Escritorio2_zfavkf.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/Escritorio4_t6neui.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763604/Escritorio3_tmtels.jpg"
+    ],
+    description: "Escritorio gamer negro con soportes para vaso y audifonos, regletas multicontactos y jaula de cables. 74x77x114",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Comedor expandible",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763592/ComedorExt1_uupwuw.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763593/ComedorExt2_sutcxx.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763608/ComedorExt3_plslqj.jpg"
+    ],
+    description: "Comedor expandible de madera y patas de acero. 80x76x154-210",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$2500",
+    status: "Disponible"
+  },
+  {
+    name: "Cama king",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763608/CamaKing1_nqbrwb.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763614/CamaKing2_px2rdp.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763592/CamaKing3_qfeur4.jpg"
+    ],
+    description: "Cama Spring air tamaño king con box y patas",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$1500",
+    status: "Disponible"
+  },
+  {
+    name: "Cama matrimonial",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Cama_matrimonial_o9nyts.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Cama_matrimonial_2_mophgw.jpg"
+    ],
+    description: "Cama colchon matrimonial con base de metal y somier de laminas de plastico.",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$1000",
+    status: "Disponible"
+  },
+  {
+    name: "Cafetera automatica",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674460/Cafetera2_s1rms1.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674465/Cafetera_dvaysi.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674460/Cafetera3_vc8k8a.jpg"
+    ],
+    description: "Cafetera con molino de granos para espresso y capuchinos DeLonghi Magnifica S",
+    condition: "Usada, tiene una pequeña fuga, incluye empaques para repararla",
+    claim: "Aun Nadie",
+    bid: "$1500",
+    status: "Disponible"
+  },
+  {
+    name: "Base para laptop",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763617/BaseLap1_yoesu3.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/BaseLap2_c3x1hf.jpg"
+    ],
+    description: "Base para la ptop de aluminio, plegable y altura ajustable",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$250",
+    status: "Disponible"
+  },
+  {
+    name: "Bascula",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763590/Bascula_rnp988.jpg"
+    ],
+    description: "Bascula electronica mide grasa, musculo y agua marca exacta",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$400",
+    status: "Disponible"
+  },
+  {
+    name: "Aspiradora portatil",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763613/AspiraPortatil2_dlb73a.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763617/AspiraPortatil1_rdjfqw.jpg"
+    ],
+    description: "Aspiradora portatil recargable por USB C con aditamentos marca Wyze",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Aspiradora",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763591/Aspiradora_x4iowz.jpg"
+    ],
+    description: "Aspiradora alta succion y capacidad marca Stihl",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$1000",
+    status: "Disponible"
+  },
+  {
+    name: "Almohadas",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763608/Almohadas_ytmvax.jpg"
+    ],
+    description: "Almohadas spring air tacto algodon",
+    condition: "Nuevas",
+    claim: "Aun Nadie",
+    bid: "$250",
     status: "Disponible"
   }
   /* Copiar a partir de la coma de abajo hasta antes del asterisco y pegar aqui arriba
