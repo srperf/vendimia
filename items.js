@@ -298,9 +298,9 @@ const items = [
     ],
     description: "Rizador electrico 5 en 1 multifunción",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Rodney",
     bid: "$200",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Refrigerador Samsung",
@@ -380,9 +380,9 @@ const items = [
     ],
     description: "Librero blanco con iluminación led y control remoto 30x90x178",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Rodney",
     bid: "$400",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Lavadora",
