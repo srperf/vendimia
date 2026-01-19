@@ -275,9 +275,9 @@ const items = [
     ],
     description: "Silla de escritorio reclinable, brazos moviles, descanso de nuca",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$700",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Silla plegable azul",
@@ -310,9 +310,9 @@ const items = [
     ],
     description: "Refrigerador Samsung plateado 170x60x60",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$1000",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "MiniRack",
@@ -445,9 +445,9 @@ const items = [
     ],
     description: "Cama Spring air tamaño king con box y patas",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$2000",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Cama matrimonial",
