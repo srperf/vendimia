@@ -287,9 +287,9 @@ const items = [
     ],
     description: "Silla plegable de metal acolchonasa azul",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Rizador de cabello",
