@@ -584,9 +584,9 @@ const items = [
     ],
     description: "Sofa cama en forma de L con espacio para guardar. Medidas 226x75 parte larga 157 y corta 90 ",
     condition: "Usado con algunos hilos",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$3000",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Impresora Laser",
