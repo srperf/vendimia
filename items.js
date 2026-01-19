@@ -41,9 +41,9 @@ const items = [
     ],
     description: "2 piezas, 50 x 40 x 50",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$600 ambos",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Calentador de aceite",
@@ -76,9 +76,9 @@ const items = [
     ],
     description: "Espejo de cuerpo completo 38 x 0,5 x 142",
     condition: "Como nuevo",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Racks de almacenaje ",
@@ -132,9 +132,9 @@ const items = [
     ],
     description: "Mesita de aglomerado plegable multiusos. 50 x 37 x 66",
     condition: "Usada como nueva.",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$150",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Mesa Centro de Sala",
@@ -157,9 +157,9 @@ const items = [
     ],
     description: "Mueble para television con cajon y puertas. No incluye contenido. 160 x 40 x 62",
     condition: "Usado, como nuevo",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$850",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Silla escritorio blanca",
@@ -169,9 +169,9 @@ const items = [
     ],
     description: "Silla para escritorio blanca con pistón.",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$400",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Sofa cama",
@@ -192,9 +192,9 @@ const items = [
     ],
     description: "Televisión samsung led 32 pulgadas con control remoto. LN32A450",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Zapatero Negro",
@@ -203,9 +203,9 @@ const items = [
     ],
     description: "Zapatero plegable",
     condition: "Usado como nuevo",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Zapatero Gris",
@@ -214,9 +214,9 @@ const items = [
     ],
     description: "Zapatero de tela gris 2 disponibles",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Pantalla 65 pulgadas",
@@ -263,9 +263,9 @@ const items = [
     ],
     description: "4 Sillas para comedor de madera con patas de metal",
     condition: "Usadas",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Silla de escritorio negra",
@@ -333,9 +333,9 @@ const items = [
     ],
     description: "Perchero de madera con 4 perchas dobles. 2 disponibles",
     condition: "Usados",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Monitor de computadora",
@@ -345,9 +345,9 @@ const items = [
     ],
     description: "Monitor para computadora hdmi de 24 pulgadas marca Sansui",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$750",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Microondas",
@@ -357,9 +357,9 @@ const items = [
     ],
     description: "Horno de microondas Daewoo KOR669M de 20 litros",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Mesita plegable",
@@ -393,9 +393,9 @@ const items = [
     ],
     description: "Lavadora Samsung 12 kilos Diamond Drum",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Cajoneras",
@@ -432,9 +432,9 @@ const items = [
     ],
     description: "Comedor expandible de madera y patas de acero. 80x76x154-210",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$2500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Cama king",
@@ -505,9 +505,9 @@ const items = [
     ],
     description: "Aspiradora portatil recargable por USB C con aditamentos marca Wyze",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Aspiradora",
@@ -527,9 +527,9 @@ const items = [
     ],
     description: "Almohadas spring air tacto algodon",
     condition: "Nuevas",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$250",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Licuadora ninja",
@@ -538,9 +538,9 @@ const items = [
     ],
     description: "Licuadora de smoothies nutri Ninja con 1 vaso",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Freidora de aire",
@@ -571,9 +571,9 @@ const items = [
     ],
     description: "Tostadora y descongeladora de pan Krups",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$200",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Sofa cama L",
