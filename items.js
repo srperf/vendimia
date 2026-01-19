@@ -87,9 +87,9 @@ const items = [
     ],
     description: "Muebles para almacenar, son 2. Cada uno 90 x 42 x 188",
     condition: "Como nuevo",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$200 cada uno",
-    status: "2 Disponibles"
+    status: "vendido"
   },
   {
     name: "Estante",
@@ -98,9 +98,9 @@ const items = [
     ],
     description: "Estantero cuadrado gris obscuro 55 x 40 x 180",
     condition: "Como nuevo",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$250",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Estante triangular",
@@ -109,9 +109,9 @@ const items = [
     ],
     description: "Triangular a base de tablones",
     condition: "Como nuevo",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$250",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Mata Insectos",
