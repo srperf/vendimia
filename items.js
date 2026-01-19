@@ -29,9 +29,9 @@ const items = [
     ],
     description: "Grande 62 x 50 x 200",
     condition: "MUY Usado",
-    claim: "Aun nadie",
+    claim: "Adrian",
     bid: "$200 no fijo ofrezcale!",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Burós de cama",
@@ -39,10 +39,10 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768039488/Buros1_gm0pcv.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768039485/Buros2_l2j4qa.jpg"
     ],
-    description: "2 piezas, cada una 50 x 40 x 50",
-    condition: "Usado, como nuevo",
+    description: "2 piezas, 50 x 40 x 50",
+    condition: "Usado",
     claim: "Aun Nadie",
-    bid: "$300 cada una",
+    bid: "$600 ambos",
     status: "Disponible"
   },
   {
@@ -201,7 +201,7 @@ const items = [
     images: [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763608/ZapateroNegro_jaytt9.jpg"
     ],
-    description: "Zapatero plegable [Medidas]",
+    description: "Zapatero plegable",
     condition: "Usado como nuevo",
     claim: "Aun Nadie",
     bid: "$100",
@@ -212,7 +212,7 @@ const items = [
     images: [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763601/ZapateroGris_obzjys.jpg"
     ],
-    description: "Zapatero de tela gris [Medidas] 2 disponibles",
+    description: "Zapatero de tela gris 2 disponibles",
     condition: "Usado",
     claim: "Aun Nadie",
     bid: "$100",
@@ -226,7 +226,7 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674461/Tele_Grande_2_ck7lml.jpg"
     ],
     description: "Samsung 65 pulgadas UN65AU8200fxzxa",
-    condition: "Usada",
+    condition: "Casi Nueva",
     claim: "Aun Nadie",
     bid: "$7000",
     status: "Disponible"
@@ -249,10 +249,10 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674466/Sillon_reclinable_xgilma.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674467/Sillon_reclinable2_ehoytk.jpg"
     ],
-    description: "Sillon reclinable gris [Medidas]",
+    description: "Sillon reclinable gris",
     condition: "Usado y algo deshilado",
     claim: "Aun Nadie",
-    bid: "$1000",
+    bid: "$600",
     status: "Disponible"
   },
   {
@@ -276,7 +276,7 @@ const items = [
     description: "Silla de escritorio reclinable, brazos moviles, descanso de nuca",
     condition: "Usada",
     claim: "Aun Nadie",
-    bid: "$500",
+    bid: "$700",
     status: "Disponible"
   },
   {
@@ -296,10 +296,10 @@ const items = [
     images: [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/RisadorPelo_g152gu.jpg"
     ],
-    description: "Risador electrico 5 en 1 multifunción",
+    description: "Rizador electrico 5 en 1 multifunción",
     condition: "Usado",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$200",
     status: "Disponible"
   },
   {
@@ -308,7 +308,7 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763598/Refri1_tizuma.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763598/Refri2_xwm6yz.jpg"
     ],
-    description: "Refrigerador Samsung plateado [medidas]",
+    description: "Refrigerador Samsung plateado 170x60x60",
     condition: "Usado",
     claim: "Aun Nadie",
     bid: "$1000",
@@ -366,10 +366,10 @@ const items = [
     images: [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763596/MesitaMorada_sq7yrl.jpg"
     ],
-    description: "Mesita plegable pequeña [medidas]",
+    description: "Mesita plegable pequeña",
     condition: "Usada",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$100",
     status: "Disponible"
   },
   {
@@ -381,7 +381,7 @@ const items = [
     description: "Librero blanco con iluminación led y control remoto 30x90x178",
     condition: "Usado",
     claim: "Aun Nadie",
-    bid: "$250",
+    bid: "$400",
     status: "Disponible"
   },
   {
@@ -394,7 +394,7 @@ const items = [
     description: "Lavadora Samsung 12 kilos Diamond Drum",
     condition: "Usada",
     claim: "Aun Nadie",
-    bid: "$300",
+    bid: "$500",
     status: "Disponible"
   },
   {
@@ -403,10 +403,10 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Gabinete_2_jrtptz.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768674455/Gabinete_wonzjv.jpg"
     ],
-    description: "Cajoneras blancas ligeras de metal/alambre [medidas]. 6 disponibles",
+    description: "Cajoneras blancas ligeras de metal/alambre 30x56x34. 5 disponibles",
     condition: "Usadas",
     claim: "Aun Nadie",
-    bid: "$200",
+    bid: "$100",
     status: "Disponible"
   },
   {
@@ -420,7 +420,7 @@ const items = [
     description: "Escritorio gamer negro con soportes para vaso y audifonos, regletas multicontactos y jaula de cables. 74x77x114",
     condition: "Usado",
     claim: "Aun Nadie",
-    bid: "$500",
+    bid: "$1000",
     status: "Disponible"
   },
   {
@@ -446,7 +446,7 @@ const items = [
     description: "Cama Spring air tamaño king con box y patas",
     condition: "Usada",
     claim: "Aun Nadie",
-    bid: "$1500",
+    bid: "$2000",
     status: "Disponible"
   },
   {
@@ -480,7 +480,7 @@ const items = [
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763617/BaseLap1_yoesu3.jpg",
       "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768763605/BaseLap2_c3x1hf.jpg"
     ],
-    description: "Base para la ptop de aluminio, plegable y altura ajustable",
+    description: "Base para laptop de aluminio, plegable y altura ajustable",
     condition: "Usada",
     claim: "Aun Nadie",
     bid: "$250",
@@ -529,6 +529,74 @@ const items = [
     condition: "Nuevas",
     claim: "Aun Nadie",
     bid: "$250",
+    status: "Disponible"
+  },
+  {
+    name: "Licuadora ninja",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768782761/Ninja_ogfsbs.jpg"
+    ],
+    description: "Licuadora de smoothies nutri Ninja con 1 vaso",
+    condition: "Usado",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Freidora de aire",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768782761/Freidora_z94q2x.jpg"
+    ],
+    description: "Freidora de aire Philips",
+    condition: "Usado, le falta mango de bandeja",
+    claim: "Aun Nadie",
+    bid: "$300",
+    status: "Disponible"
+  },
+  {
+    name: "Olla multifunción",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768782760/InstaPot_loggua.jpg"
+    ],
+    description: "Olla expres y vaporera InstaPot Duo 7 en 1",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$500",
+    status: "Disponible"
+  },
+  {
+    name: "Tostadora",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768782760/Tostadora_qp6ucy.jpg"
+    ],
+    description: "Tostadora y descongeladora de pan Krups",
+    condition: "Usada",
+    claim: "Aun Nadie",
+    bid: "$200",
+    status: "Disponible"
+  },
+  {
+    name: "Sofa cama L",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768784957/SillonL1_ttnrbu.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768784952/SillonL2_wsotvb.jpg",
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768784951/SillonL3_osvqvd.jpg"
+    ],
+    description: "Sofa cama en forma de L con espacio para guardar. Medidas 226x75 parte larga 157 y corta 90 ",
+    condition: "Usado con algunos hilos",
+    claim: "Aun Nadie",
+    bid: "$3000",
+    status: "Disponible"
+  },
+  {
+    name: "Impresora Laser",
+    images: [
+      "https://res.cloudinary.com/dpdwof2hx/image/upload/v1768785419/Impresora_iph9ut.jpg"
+    ],
+    description: "Impresora HP LaserJet Pro M15w con Wifi",
+    condition: "Usada, toner casi vacio",
+    claim: "Aun Nadie",
+    bid: "$500",
     status: "Disponible"
   }
   /* Copiar a partir de la coma de abajo hasta antes del asterisco y pegar aqui arriba
