@@ -419,9 +419,9 @@ const items = [
     ],
     description: "Escritorio gamer negro con soportes para vaso y audifonos, regletas multicontactos y jaula de cables. 74x77x114",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$1000",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Comedor expandible",
