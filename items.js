@@ -322,9 +322,9 @@ const items = [
     ],
     description: "Mini rack de plastico desarmable con ruedas 52x17x71",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Perchero de madera",
