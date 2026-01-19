@@ -239,9 +239,9 @@ const items = [
     ],
     description: "Amplificador Pyle con bluetooth, radio, mp3 y con bocinas hasta 100 wats",
     condition: "Usado",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$300",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Sillon reclinable",
@@ -287,9 +287,9 @@ const items = [
     ],
     description: "Silla plegable de metal acolchonasa azul",
     condition: "Usada",
-    claim: "Adrian",
+    claim: "Aun nadie",
     bid: "$100",
-    status: "vendido"
+    status: "Disponible"
   },
   {
     name: "Rizador de cabello",
