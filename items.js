@@ -120,9 +120,9 @@ const items = [
     ],
     description: "Lampara mata insectos electrico para colgar",
     condition: "Funciona muy bien",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$250",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Mesita de cafe plegable",
@@ -405,9 +405,9 @@ const items = [
     ],
     description: "Cajoneras blancas ligeras de metal/alambre 30x56x34. 5 disponibles",
     condition: "Usadas",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Escritorio gamer",
