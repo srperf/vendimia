@@ -7,7 +7,7 @@ const items = [
     description: "120 x 75 x 72",
     condition: "Cafe, Usada, 5 años",
     claim: "Todavia Nadie",
-    bid: "$500, con sillas $1000",
+    bid: "$500",
     status: "Disponible"
   },
   {
