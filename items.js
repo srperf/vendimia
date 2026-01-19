@@ -368,9 +368,9 @@ const items = [
     ],
     description: "Mesita plegable pequeña",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Adrian",
     bid: "$100",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Librero",
