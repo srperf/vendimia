@@ -493,9 +493,9 @@ const items = [
     ],
     description: "Bascula electronica mide grasa, musculo y agua marca exacta",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Juan",
     bid: "$400",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Aspiradora portatil",
