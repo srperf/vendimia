@@ -457,9 +457,9 @@ const items = [
     ],
     description: "Cama colchon matrimonial con base de metal y somier de laminas de plastico.",
     condition: "Usada",
-    claim: "Aun Nadie",
+    claim: "Rodney",
     bid: "$1000",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Cafetera automatica",
