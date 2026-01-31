@@ -227,9 +227,9 @@ const items = [
     ],
     description: "Samsung 65 pulgadas UN65AU8200fxzxa",
     condition: "Casi Nueva",
-    claim: "Aun Nadie",
-    bid: "$7000",
-    status: "Disponible"
+    claim: "Adrian",
+    bid: "$5000",
+    status: "vendido"
   },
   {
     name: "Kit de sonido",
@@ -470,9 +470,9 @@ const items = [
     ],
     description: "Cafetera con molino de granos para espresso y capuchinos DeLonghi Magnifica S",
     condition: "Usada, tiene una pequeña fuga, incluye empaques para repararla",
-    claim: "Aun Nadie",
+    claim: "Horacio",
     bid: "$1500",
-    status: "Disponible"
+    status: "vendido"
   },
   {
     name: "Base para laptop",
